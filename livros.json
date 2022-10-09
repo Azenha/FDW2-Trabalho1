@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "63433ed7e0b61c705a04ce6e"
+  },
+  "emEstoque": true,
+  "titulo": "Livro 1",
+  "descricaoCurta": "Lorem ipsum dolor sit amet.",
+  "descricaoLonga": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra ultrices erat, a tincidunt dolor maximus vitae. Aenean ut lacus sit amet magna pretium dignissim. Vivamus maximus odio ac quam porta lacinia. Fusce massa ligula, porttitor sed posuere ac, auctor ut nibh. Donec vehicula dolor eleifend nulla dapibus, vitae tempor.",
+  "autoria": "Azenha",
+  "preco": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63433f09e0b61c705a04ce72"
+  },
+  "emEstoque": true,
+  "titulo": "Livro 3",
+  "descricaoCurta": "Lorem ipsum dolor sit amet.",
+  "descricaoLonga": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra ultrices erat, a tincidunt dolor maximus vitae. Aenean ut lacus sit amet magna pretium dignissim. Vivamus maximus odio ac quam porta lacinia. Fusce massa ligula, porttitor sed posuere ac, auctor ut nibh. Donec vehicula dolor eleifend nulla dapibus, vitae tempor.",
+  "autoria": "Tietbohl",
+  "preco": 30,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63433f21e0b61c705a04ce74"
+  },
+  "emEstoque": true,
+  "titulo": "Livro 4",
+  "descricaoCurta": "Lorem ipsum dolor sit amet.",
+  "descricaoLonga": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra ultrices erat, a tincidunt dolor maximus vitae. Aenean ut lacus sit amet magna pretium dignissim. Vivamus maximus odio ac quam porta lacinia. Fusce massa ligula, porttitor sed posuere ac, auctor ut nibh. Donec vehicula dolor eleifend nulla dapibus, vitae tempor.",
+  "autoria": "Gato Zeus",
+  "preco": 400,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63433f2ce0b61c705a04ce76"
+  },
+  "emEstoque": true,
+  "titulo": "Livro 5",
+  "descricaoCurta": "Lorem ipsum dolor sit amet.",
+  "descricaoLonga": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra ultrices erat, a tincidunt dolor maximus vitae. Aenean ut lacus sit amet magna pretium dignissim. Vivamus maximus odio ac quam porta lacinia. Fusce massa ligula, porttitor sed posuere ac, auctor ut nibh. Donec vehicula dolor eleifend nulla dapibus, vitae tempor.",
+  "autoria": "Gato Lion",
+  "preco": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634340d0e0b61c705a04ce7c"
+  },
+  "emEstoque": true,
+  "titulo": "Livro 2",
+  "descricaoCurta": "Lorem ipsum dolor sit amet.",
+  "descricaoLonga": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra ultrices erat, a tincidunt dolor maximus vitae. Aenean ut lacus sit amet magna pretium dignissim. Vivamus maximus odio ac quam porta lacinia. Fusce massa ligula, porttitor sed posuere ac, auctor ut nibh. Donec vehicula dolor eleifend nulla dapibus, vitae tempor.",
+  "autoria": "Silva",
+  "preco": 200,
+  "__v": 0
+}]
